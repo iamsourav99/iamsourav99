@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sourav Barman
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Java & Web-Developement
+- 👀 I’m interested in Backend Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail me on:--->>>> souravbarman75578@gmail.com
+- 📫 mail me on:--->>>> souravcgeccse25@gmail.com
 - 
 
 <!---
